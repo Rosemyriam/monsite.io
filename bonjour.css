@@ -1,0 +1,90 @@
+h1{
+	text-align: center;
+	
+    
+}
+.lien{
+	color: brown;
+}
+.x{
+	color: gray;
+}
+h1{
+	text-align: center;
+}
+.img{
+	background-image: url("aquarelle.jpg");
+	line-height: 1.5cm;
+}
+.color{
+	background-image: url("aquarelle.jpg");
+    color: blue;
+    font-size: 1.5cm;
+    font-family: arial black;
+}
+.clo{
+	background-image: url("aquarelle.jpg");
+}
+
+#acc{
+	background-image: url(text.jpg);
+	font-family: comic sans ms;
+	font-size: 0.8cm;
+	line-height: 2cm;
+	text-align: center;
+}
+.taille{
+	font-size: 0.5cm;
+	font-family: lucida handwriting;
+}
+.pre{
+	color: green;
+	text-align: right;
+}
+.body{
+	background-image: url(bg.jpg);
+	line-height: 2cm;
+}	
+
+.m{
+	font-family: algerian;
+}
+.cv{
+	font-family: papyrus;
+	color: brown;
+}
+.titre{
+	font-family: cooper black;
+}
+.monde{
+	font-family: algerian;
+	color: blue; 
+}
+.menu{
+	font-family: engravers mt;
+	color: orange;
+}
+.form{
+	font-family: algerian;
+}
+.site{
+	font-family: arial;
+	color: black;
+	font-size: 30px;
+	line-height: 1.5cm;
+
+}
+.fin{
+	text-transform: uppercase;
+	font-size: 25px;
+	font-style: italic;
+	text-align: right;
+}
+.copyright{
+	color: white;
+}
+
+
+.bord{
+	color:gray;
+}
